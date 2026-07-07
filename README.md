@@ -1,2 +1,2 @@
 # Credit_Card
-Credit_CardUI
+Simple & Minimalistic Credit Card UI
